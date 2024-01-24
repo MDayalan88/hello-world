@@ -28,6 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
+  <div class="container">
 <p>By Martin Dayalan</p>
   </div>
 </form>
